@@ -1,7 +1,7 @@
+// Copyright 2026 Svetlana Zyazeva
 #include "tasks.h"
 #include <cmath>
 #include <cstdint>
-
 const double PI = 3.14159265358979;
 
 double calcGap(double earthRadius, double addedLength) {
