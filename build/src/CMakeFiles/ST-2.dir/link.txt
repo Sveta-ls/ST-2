@@ -1,2 +1,0 @@
-C:\msys64\ucrt64\bin\ar.exe qc libST-2.a "CMakeFiles/ST-2.dir/circle.cpp.obj" "CMakeFiles/ST-2.dir/tasks.cpp.obj"
-C:\msys64\ucrt64\bin\ranlib.exe libST-2.a
