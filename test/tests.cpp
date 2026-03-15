@@ -120,8 +120,8 @@ TEST(GapTest, SmallEarthRadius) {
 }
 
 TEST(GapTest, EarthAndRopeClassic) {
-    double earthRadius = 6371000.0;  
-    double addedLength = 1.0;  
+    double earthRadius = 6371000.0;
+    double addedLength = 1.0;
     double gap = calcGap(earthRadius, addedLength);
     EXPECT_NEAR(gap, 0.15915494309189535, 1e-6);
 }
